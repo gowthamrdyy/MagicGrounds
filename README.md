@@ -11,8 +11,6 @@
 ## 🚀 Live Demo
 
 👉 **[Try MagicGrounds](https://magicgrounds.vercel.app/)**  
-*(Coming Soon...)*
-
 ---
 
 ## ✨ Features
