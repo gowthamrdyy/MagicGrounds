@@ -1,73 +1,57 @@
-# Welcome to your Lovable project
+# 🎨 MagicGrounds – Advanced Gradient Generator
 
-## Project info
+[![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)  
+[![Built With](https://img.shields.io/badge/Built%20with-Love-%23ff69b4.svg)]()  
+[![Status](https://img.shields.io/badge/Status-Under_Development-blueviolet)]()
 
-**URL**: https://lovable.dev/projects/b36742e7-ee3f-490f-a4df-f15cbb38f7da
+**MagicGrounds** is a powerful and visually delightful web app to generate stunning gradient backgrounds with high customization, filters, and downloadable assets. Designed for designers, developers, and creatives who love beautiful visual playgrounds.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🚀 Live Demo
 
-**Use Lovable**
+👉 **[Try MagicGrounds](https://your-deployed-site-url.com)**  
+*(Coming Soon...)*
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/b36742e7-ee3f-490f-a4df-f15cbb38f7da) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## ✨ Features
 
-**Use your preferred IDE**
+### 🎛 Filters & Customization
+- 🎨 Create linear, radial, mesh, or conic gradients
+- 🎚️ Adjust **Brightness**, **Hue**, **Contrast**, **Blur**, and **Grain**
+- 🧪 Toggle color positions manually
+- 🎲 Shuffle and randomize palettes
+- 🌈 Mood-based palette suggestions (e.g. Calm, Cyberpunk, Retro)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 📐 Canvas & Layout
+- Set custom **canvas size** (with lock ratio option)
+- Choose from **aspect ratios** (1:1, 2:1, 16:9, etc.)
+- Switch **vertical/horizontal orientation**
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 🖼️ Export Options
+- Export gradients as **PNG, JPG, SVG**
+- Download **CSS Snippet** (background gradient code)
+- Copy palette color codes instantly
+- Choose resolution: 1x, 2x, HD, 4K
 
-Follow these steps:
+### 🔥 Extras
+- 🌀 **Animated Gradient** CSS support
+- 🧊 **Glassmorphism overlay builder**
+- 🌐 Share gradients via URL
+- 🎨 Save favorite gradients to localStorage
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🛠️ Tech Stack
 
-# Step 3: Install the necessary dependencies.
-npm i
+- **Frontend**: HTML5, CSS3, JavaScript (React / Vue optional)
+- **Design**: Figma-inspired layout with smooth transitions
+- **Storage**: LocalStorage for saved gradients
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
+## 💬 Let's Connect
+Built by @yourgithub 💜
+If you love gradients, drop a ⭐ and share MagicGrounds!
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/b36742e7-ee3f-490f-a4df-f15cbb38f7da) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
