@@ -10,7 +10,7 @@
 
 ## 🚀 Live Demo
 
-👉 **[Try MagicGrounds](https://your-deployed-site-url.com)**  
+👉 **[Try MagicGrounds](https://magicgrounds.vercel.app/)**  
 *(Coming Soon...)*
 
 ---
