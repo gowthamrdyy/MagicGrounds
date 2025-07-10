@@ -49,7 +49,7 @@
 
 ---
 ## 💬 Let's Connect
-Built by @yourgithub 💜
+Built by @gowthamrdyy💜
 If you love gradients, drop a ⭐ and share MagicGrounds!
 
 
