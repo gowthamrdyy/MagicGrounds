@@ -31,7 +31,7 @@
 - Export gradients as **PNG, JPG, SVG**
 - Download **CSS Snippet** (background gradient code)
 - Copy palette color codes instantly
-- Choose resolution: 1x, 2x, HD, 4K
+- Choose resolution: 1x, 2x, HD, 4K ,8K
 
 ### 🔥 Extras
 - 🌀 **Animated Gradient** CSS support
