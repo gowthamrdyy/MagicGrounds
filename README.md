@@ -37,7 +37,7 @@
 - 🌀 **Animated Gradient** CSS support
 - 🧊 **Glassmorphism overlay builder**
 - 🌐 Share gradients via URL
-- 🎨 Save favorite gradients to localStorage
+- 🎨 Save favorite gradients to localStorage.
 
 ---
 
